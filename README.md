@@ -1,7 +1,11 @@
 # My-Portfoliohtml-css-js-training
 
-//when i was new in programing, i studied html/css/js and i built my first website/portfolio for me.
 
-:D it's my first time i know, i have mistakes
+When I was new to programming, I studied HTML/CSS/JS and built my first website/portfolio for myself.
 
-##in download resume is nothing for you know :D
+😄 It's my first time, so I know there are mistakes.
+
+Portfolio Live Link: https://symphonious-mousse-69ee23.netlify.app/
+
+Download Resume:
+There is Old Resume 😄
